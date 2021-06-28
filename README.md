@@ -1,2 +1,2 @@
 # stock_tracker
-Python thang
+A project learning python (predominantly numpy and pandas) through creating various stock investment tools.
